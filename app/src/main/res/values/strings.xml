@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_surname">Name &amp; Surname</string>
+    <string name="name_hint">E.g., John SMITH</string>
+    <string name="email">Email</string>
+    <string name="email_hint">E.g., user@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_hint">E.g., +1234567890</string>
+    <string name="address">Address</string>
+    <string name="address_hint">E.g., 23, Peace Street...</string>
+    <string name="city">City</string>
+    <string name="city_hint">E.g., New York</string>
+    <string name="submit">Submit</string>
+    <string name="screen_2_title">Screen 2</string>
+    <string name="back">Back</string>
+</resources>
